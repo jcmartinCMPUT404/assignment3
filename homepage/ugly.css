@@ -1,0 +1,73 @@
+h1 {
+    color: white;
+}
+
+div.content-div {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h1.who-am-i {
+    color: blue;
+}
+
+p.who-am-i {
+    margin-bottom: 15%;
+    color: yellow;
+    line-height: 60%;
+}
+
+h1.professional-history {
+    float: right;
+    color: green;
+}
+
+p.professional-history {
+    color: red;
+    line-height: 150%;
+}
+
+h1.my-offer {
+    color: orange;
+    float: left;
+}
+
+p.my-offer {
+    color: pink;
+    line-height: 150%;
+}
+
+body {
+    background-color: purple;
+}
+
+img.clown-picture {
+    width: 25%;
+    float: left;
+}
+
+img.my-picture {
+    margin-top: 1%;
+    width: 25%;
+    margin-right: 5%;
+    float: right;
+}
+
+.sidebar {
+    height: 100%;
+    width: 150px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding-top: 40px;
+    background-color: blue;
+}
+    
+.sidebar div {
+    color: lightskyblue;
+    margin-bottom: 50%;
+    padding: 8px;
+    font-size: 24px;
+    display: block;
+}
